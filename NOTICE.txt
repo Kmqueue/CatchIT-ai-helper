@@ -1,0 +1,10 @@
+CatchIT AI helper - third-party components
+
+This folder is downloaded by CatchIT for the optional AI bobber detection.
+
+Model: OWLv2 (google/owlv2-base-patch16-ensemble), Copyright Google, Apache License 2.0
+       https://huggingface.co/google/owlv2-base-patch16-ensemble
+       Converted to ONNX; only the image tower and heads are kept, the text queries are precomputed.
+ONNX Runtime, Copyright Microsoft, MIT License - https://github.com/microsoft/onnxruntime
+DirectML, Copyright Microsoft - https://github.com/microsoft/DirectML (redistributable)
+.NET runtime, Copyright .NET Foundation and contributors, MIT License - https://github.com/dotnet/runtime
