@@ -1,6 +1,6 @@
 # CatchIT AI helper
 
-Files for the optional AI bobber detection of CatchIT (a fishing helper for World of Warcraft).
+Files for the optional AI bobber detection of CatchIT (a fishing helper for CatchIT).
 CatchIT downloads them once on request and checks them against the checksums in `ai-manifest.ini`.
 Everything runs locally on the user's computer; nothing is sent anywhere.
 
